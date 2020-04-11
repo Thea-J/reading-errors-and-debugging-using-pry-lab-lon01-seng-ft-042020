@@ -6,6 +6,6 @@ def snake_it_up(string)
     string =   "s" + string
     end
   else
-  puts  string
+  string
   end
 end
